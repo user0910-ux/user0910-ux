@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on python and web development projects
 - 📫 How to reach me ...you can connect me on my linkedin i.e Shipra Kumari
 - 😄 Pronouns: ...she/her
-- ⚡ Fun fact: I can be funny , interactive and still be good at focusing and being interactive with the people i work around
+- ⚡ Fun fact: I can be funny , interactive and still be good at focusing and managing with the project & the people i work around
 
 <!---
 user0910-ux/user0910-ux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
